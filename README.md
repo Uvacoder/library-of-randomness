@@ -2,8 +2,9 @@
 
 **library-of-randomness** (_L-O-R_) is a research tool. Use it to discover something new.
 It will reward you with a random item in the extensive online archives of the
-Library of Congress, Washington, DC, USA. Pairs particularly well with
-[Are.na](http://are.na/).
+Library of Congress, Washington, DC, USA.
+
+Pairs well with [Are.na](http://are.na/).
 
 
 
