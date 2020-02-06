@@ -10,13 +10,12 @@ Library of Congress, Washington, DC, USA. Pairs particularly well with
 ## Installation
 
 1. Copy the bookmarklet code from
-   `[bookmarklet.min.js](src/bookmarklet.min.js)`. (A simple way to do this is
+   [`bookmarklet.min.js`](src/bookmarklet.min.js). (A simple way to do this is
    to click on the line number, then click the `…` icon which appears, then
    click `Copy line`.)
 
 2. Create a new bookmark named `L-O-R` (or, a name you prefer) in your browser.
-   Paste the bookmarklet code into the `Location` or `URL` field. An example,
-   demonstrating this in Firefox, is below.
+   Paste the bookmarklet code into the `Location` or `URL` field.   
    
    <details>
    <summary><b>Example</b></summary>
