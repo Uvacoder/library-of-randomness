@@ -17,10 +17,13 @@ Library of Congress, Washington, DC, USA. Pairs particularly well with
 2. Create a new bookmark named `L-O-R` (or, a name you prefer) in your browser.
    Paste the bookmarklet code into the `Location` or `URL` field. An example,
    demonstrating this in Firefox, is below.
+   
+   <details>
+   <summary><b>Example</b></summary>
+   <img src="example.png" width="328"/>
+   </details>
 
 3. Make sure to save the bookmark to your bookmarks toolbar.
-
-![example of bookmarklet](example.png)
 
 
 
