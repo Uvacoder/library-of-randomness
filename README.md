@@ -35,6 +35,12 @@ Click the bookmarklet, and wait to be redirected.
 
 ## Notes
 
+**Due to an API limitation**, the bookmarklet cannot currently select an item from 
+the full catalogue, and is limited to the first ~1% of results (~24,000 items). If
+the API restriction is lifted, the bookmarklet will be changed to select from all
+items. In the meantime, consider this project a 'working prototype'. (This is being
+tracked in #1).
+
 By default, _L-O-R_ limits the range of possible results to images. If
 you would like to visit results of any type, change the setting `VISUAL` to
 `false`, and recompile the bookmarklet.
