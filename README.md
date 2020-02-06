@@ -12,9 +12,9 @@ bookmark to something you prefer.
 
 ---
 
-<a id="bookmarklet" href="javascript:void%20function(){function%20a(a){return%20Math.floor(Math.random()*a)}const%20b=%22https://www.loc.gov/search/%3Fq=*%26fo=json%22+%22%26fa=online-format:image%22;fetch(b).then(a=%3Ea.json()).then(c=%3Efetch(b+%22%26sp=%22+a(c.pagination.total/100))).then(a=%3Ea.json()).then(b=%3Eb.results[a(b.pagination.perpage)].aka).then(a=%3E{for(i%20of%20a)i.includes(%22/item/%22)%26%26window.location.replace(i)})}();">
-L-O-R
-</a>
+<div id="bk">
+<a href="javascript:void%20function(){function%20a(a){return%20Math.floor(Math.random()*a)}const%20b=%22https://www.loc.gov/search/%3Fq=*%26fo=json%22+%22%26fa=online-format:image%22;fetch(b).then(a=%3Ea.json()).then(c=%3Efetch(b+%22%26sp=%22+a(c.pagination.total/100))).then(a=%3Ea.json()).then(b=%3Eb.results[a(b.pagination.perpage)].aka).then(a=%3E{for(i%20of%20a)i.includes(%22/item/%22)%26%26window.location.replace(i)})}();">L-O-R</a>
+</div>
 
 ---
 
